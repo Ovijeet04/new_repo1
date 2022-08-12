@@ -1,2 +1,3 @@
 text file
 some text is added to f1
+lines added after amending changes
